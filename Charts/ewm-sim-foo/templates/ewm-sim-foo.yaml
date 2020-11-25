@@ -2,17 +2,10 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  annotations:
-    deployment.kubernetes.io/revision: "1"
-  creationTimestamp: "2020-11-24T12:49:28Z"
-  generation: 2
   labels:
     app: ewm-sim-foo
   name: ewm-sim-foo
   namespace: default
-  resourceVersion: "325594"
-  selfLink: /apis/apps/v1/namespaces/default/deployments/ewm-sim
-  uid: 4846b1ab-37c5-4290-bd9f-798a3a76f314
 spec:
   progressDeadlineSeconds: 600
   replicas: 1
