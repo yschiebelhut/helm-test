@@ -1,0 +1,6 @@
+ewmsim:
+  image: "yschiebelhut/odata-mock-server"
+  envs:
+    ewm:
+      user: "root"
+      password: "1234"

@@ -1,0 +1,4 @@
+apiVersion: v1
+description: SAP EW OData endpoint simulation (test)
+name: ewm-sim-foo
+version: 0.0.2
