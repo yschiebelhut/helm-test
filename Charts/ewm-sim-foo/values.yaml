@@ -3,4 +3,4 @@ ewmsim:
   envs:
     ewm:
       user: "root"
-      password: "1234"
+      password: "foobar"
